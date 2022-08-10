@@ -2,28 +2,28 @@
 
 ## <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30 /> Hi, I’m Warunthorn Jansung ( First )</p>
 
-## 👋 About Me 👋  
+## 💁🏻‍♀️ About Me 💁🏻‍♀️
 I am 8 years experienced 'system engineer' specialist. With my knowledge and skill for continuous improvement , ability of learning quickly , work well under pressure and a good team player , I believe that I can be a part of the success of the organization and team that I join. 
 
 
 - 👀 I’m interested in DevOps Engineer & System Engineer
-- 🌱 I’m currently learning to english language, DevOps Flow CNCF landscape
+- 🤩 I’m currently learning to english language, DevOps Flow CNCF landscape
 - 📫 How to reach me warunthornjansung@gmail.com
 - 💬 Ask me about Docker, Nginx, Jenkins( Jenkins Pipeline CI/CD ), K8S, ELK Stack, etc..
 
 <p align="center"><img src="https://user-images.githubusercontent.com/7834790/183679318-f36690a0-8c11-4ec1-af94-0b1ac36b4d20.png" width=50% /></p>
 
-## 👋 Educations 👋
+## 👩🏻‍🎓 Educations 👩🏻‍🎓
 BACHELOR OF ENGINEERING (COMPUTER).
 KASETSART UNIVERSITY  |  2009 - 2014
 
-## 👋 Experience 👋
+## 👩🏻‍💻 Experience 👩🏻‍💻
 - DevOps Engineer.             TMBThanachart Bank Public Company Limited ( TTB BANK ).  August 2022 – present
 - System Engineer and DevOps.  Advanced Info Service Head Office ( AIS ).  August 2019 – July 2022
 - Infrastructure AIX admin.    Tesco Lotus Head Office ( Lotus ).   April 2018 - AUGUST 2019
 - System Engineer.             Freewill Compile (freewill group).   February 2015 - March 2018
 
-## 👋 Skills 👋
+## ⚙️ Skills ⚙️
 - Kubernetest ( K8S )
 - Docker , Container
 - Jenkins Pipeline CI/CD
@@ -45,7 +45,7 @@ KASETSART UNIVERSITY  |  2009 - 2014
 - Nginx
 - Lens kubernetes
 
-## 👋 TRAINING 👋
+## 📝 TRAINING 📝
 - KUBERNETES (K8S)
 - JENKINS CI/CD
 - UNIX AND LINUX BASIC TRAINING
