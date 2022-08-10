@@ -56,7 +56,7 @@ KASETSART UNIVERSITY  |  2009 - 2014
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Warunthorn-Jansung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📝 Social Media 📝
+## 🌐 Social Media 🌐
 <div id="badges">
   <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
