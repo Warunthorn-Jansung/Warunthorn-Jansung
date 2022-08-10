@@ -3,7 +3,7 @@
 ## <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30 /> Hi, I’m Warunthorn Jansung ( First )</p>
 
 ## 👋 About Me 👋  
-Versatile IT support and Systems Engineer with over 5 years of cross-functional leadership in implementation validation and deployment for the whole organization. Exceptional knowledge of CI/CD operation with hands-on experience of DevOps Engineer over 3 years. 
+I am 8 years experienced 'system engineer' specialist. With my knowledge and skill for continuous improvement , ability of learning quickly , work well under pressure and a good team player , I believe that I can be a part of the success of the organization and team that I join. 
 
 - I'm Work on TP Consulting Outsourcing at AIS ( Advanced Info Services Public Company Limited - ITSM )
 - 👀 I’m interested in DevOps Engineer & Data Analysis
