@@ -24,6 +24,7 @@ KASETSART UNIVERSITY  |  2009 - 2014
 - System Engineer.             Freewill Compile ( Freewill Group ).   February 2015 - March 2018
 
 ## ⚙️ Skills ⚙️
+![Kubernetes](https://img.shields.io/badge/kubernetes-%230A66C2.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
 - Kubernetest ( K8S )
 - Docker , Container
 - Jenkins Pipeline CI/CD
