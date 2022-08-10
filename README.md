@@ -21,7 +21,7 @@ KASETSART UNIVERSITY  |  2009 - 2014
 - DevOps Engineer.             TMBThanachart Bank Public Company Limited ( TTB BANK ).  August 2022 – present
 - System Engineer and DevOps.  Advanced Info Service Head Office ( AIS ).  August 2019 – July 2022
 - Infrastructure AIX admin.    Tesco Lotus Head Office ( Lotus ).   April 2018 - AUGUST 2019
-- System Engineer.             Freewill Compile (freewill group).   February 2015 - March 2018
+- System Engineer.             Freewill Compile ( Freewill Group ).   February 2015 - March 2018
 
 ## ⚙️ Skills ⚙️
 - Kubernetest ( K8S )
