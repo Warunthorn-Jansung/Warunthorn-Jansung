@@ -58,7 +58,7 @@ KASETSART UNIVERSITY  |  2009 - 2014
 
 ## 🌐 Social Media 🌐
 <div id="badges">
-  <a href="">
+  <a href="https://www.linkedin.com/in/warunthorn-jansung-6603b5239/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCW82dcLNu2xBxYC0_6C_0GQ" target="_blank">
