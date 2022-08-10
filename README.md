@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/103196866/1644166609/1500x500" alt="Page"/>
+<p align="center"><img src="https://user-images.githubusercontent.com/110953929/183808608-be9b0807-f543-48af-9ddc-e429590fd46b.png" width=30% /></p>
 
 ## <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30 /> Hi, I’m Warunthorn Jansung ( First )</p>
 
