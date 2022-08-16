@@ -24,7 +24,26 @@ KASETSART UNIVERSITY  |  2009 - 2014
 - System Engineer.             Freewill Compile ( Freewill Group ).   February 2015 - March 2018
 
 ## ⚙️ Skills ⚙️
-![Kubernetes](https://img.shields.io/badge/kubernetes-%230A66C2.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%230A66C2.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)</br>
+![Docker](https://img.shields.io/badge/docker-%2300AEF5.svg?style=for-the-badge&logo=docker&logoColor=white)</br>
+![Jenkins](https://img.shields.io/badge/Jenkins-%23EC0E11.svg?style=for-the-badge&logo=Jenkins&logoColor=white)![Jenkins Pipeline](https://img.shields.io/badge/Pipeline-%23C4C4C4.svg?style=for-the-badge&logo=skill&logoColor=white)</br>
+![Containerd](https://img.shields.io/badge/Containerd-%23000000.svg?style=for-the-badge&logo=containerd&logoColor=white)</br>
+![Gitlab](https://img.shields.io/badge/gitlab-%23E37D02.svg?style=for-the-badge&logo=gitlab&logoColor=white)</br>
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E37D02.svg?style=for-the-badge&logo=Prometheus&logoColor=white)![Prometheus](https://img.shields.io/badge/AlertRules-%23E8E1DE.svg?style=for-the-badge&logo=skill&logoColor=white)</br>
+![Grafana](https://img.shields.io/badge/Grafana-%23FC4900.svg?style=for-the-badge&logo=Grafana&logoColor=white)![Graph](https://img.shields.io/badge/Graph-%23E37D02.svg?style=for-the-badge&logo=skill&logoColor=white)</br>
+![Fluent-bit](https://img.shields.io/badge/Fluentbit-%2346E3AA.svg?style=for-the-badge&logo=fluentbit&logoColor=white)![Fluentd](https://img.shields.io/badge/Fluentd-%2311A9E2.svg?style=for-the-badge&logo=fluentd&logoColor=white)</br>
+![filebeat](https://img.shields.io/badge/Filebeat-%2343D7E3.svg?style=for-the-badge&logo=beats&logoColor=white)![logstash](https://img.shields.io/badge/logstash-%2300C0F3.svg?style=for-the-badge&logo=logstash&logoColor=white)![elasticsearch](https://img.shields.io/badge/elasticsearch-%2313DDAC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)![kibana](https://img.shields.io/badge/kibana-%23F85DFF.svg?style=for-the-badge&logo=kibana&logoColor=white)</br>
+![Kafka](https://img.shields.io/badge/Kafka-%23FFFFFF.svg?style=for-the-badge&logo=apachekafka&logoColor=black)</br>
+![Mongodb](https://img.shields.io/badge/Mongodb-%23FFFFFF.svg?style=for-the-badge&logo=Mongodb&logoColor=black)</br>
+![Zabbix](https://img.shields.io/badge/Zabbix-%23FFFFFF.svg?style=for-the-badge&logo=zabbix&logoColor=black)</br>
+![IBM-Server](https://img.shields.io/badge/IBM,SERVER-%23FFFFFF.svg?style=for-the-badge&logo=IBM&logoColor=black)![X-Series](https://img.shields.io/badge/X-Series-%23FFFFFF.svg?style=for-the-badge&logo=skill&logoColor=black)![P-Series](https://img.shields.io/badge/P-Series-%23FFFFFF.svg?style=for-the-badge&logo=skill&logoColor=black)</br>
+![IBM-Storage](https://img.shields.io/badge/IBM,Storage-%23FFFFFF.svg?style=for-the-badge&logo=IBM&logoColor=black)</br>
+![Linux,Uninx](https://img.shields.io/badge/Linux-%23FFFFFF.svg?style=for-the-badge&logo=Linux&logoColor=black)</br>
+![Google cloud](https://img.shields.io/badge/GoogleCloud-%23FFFFFF.svg?style=for-the-badge&logo=Googlecloud&logoColor=black)</br>
+![draw.io](https://img.shields.io/badge/draw.io-%23FFFFFF.svg?style=for-the-badge&logo=Diagram&logoColor=black)</br>
+![Nginx](https://img.shields.io/badge/Nginx-%2318A502.svg?style=for-the-badge&logo=Nginx&logoColor=black)</br>
+![Lens](https://img.shields.io/badge/Lens-%230374C7.svg?style=for-the-badge&logo=Lens&logoColor=black)</br>
+
 - Kubernetest ( K8S )
 - Docker , Container
 - Jenkins Pipeline CI/CD
