@@ -36,7 +36,7 @@ KASETSART UNIVERSITY  |  2009 - 2014
 ![filebeat](https://img.shields.io/badge/Filebeat-%2343D7E3.svg?style=for-the-badge&logo=beats&logoColor=white)![logstash](https://img.shields.io/badge/logstash-%2300C0F3.svg?style=for-the-badge&logo=logstash&logoColor=white)![elasticsearch](https://img.shields.io/badge/elasticsearch-%2313DDAC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)![kibana](https://img.shields.io/badge/kibana-%23F85DFF.svg?style=for-the-badge&logo=kibana&logoColor=white)</br>
 ![Kafka](https://img.shields.io/badge/Kafka-%23BEBEBE.svg?style=for-the-badge&logo=apachekafka&logoColor=white)</br>
 ![Mongodb](https://img.shields.io/badge/Mongodb-%228B22.svg?style=for-the-badge&logo=Mongodb&logoColor=white)</br>
-![Zabbix](https://img.shields.io/badge/Zabbix-%FF0000.svg?style=for-the-badge&logo=zabbix&logoColor=white)</br>
+![Zabbix](https://img.shields.io/badge/Zabbix-%23FC4900.svg?style=for-the-badge&logo=zabbix&logoColor=white)</br>
 ![IBM-Server](https://img.shields.io/badge/IBM,SERVER-%0066FF.svg?style=for-the-badge&logo=IBM&logoColor=white)![X-Series](https://img.shields.io/badge/X-Series-%0066FF.svg?style=for-the-badge&logo=skill&logoColor=white)![P-Series](https://img.shields.io/badge/P-Series-%0066FF.svg?style=for-the-badge&logo=skill&logoColor=white)</br>
 ![IBM-Storage](https://img.shields.io/badge/IBM,Storage-%0066FF.svg?style=for-the-badge&logo=IBM&logoColor=white)</br>
 ![Linux,Uninx](https://img.shields.io/badge/Linux-%DCDCDC.svg?style=for-the-badge&logo=Linux&logoColor=white)</br>
