@@ -40,8 +40,8 @@ KASETSART UNIVERSITY  |  2009 - 2014
 ![IBM-Server](https://img.shields.io/badge/IBM,SERVER-%0066FF.svg?style=for-the-badge&logo=IBM&logoColor=white)![X-Series](https://img.shields.io/badge/X-Series-%0066FF.svg?style=for-the-badge&logo=skill&logoColor=white)![P-Series](https://img.shields.io/badge/P-Series-%0066FF.svg?style=for-the-badge&logo=skill&logoColor=white)</br>
 ![IBM-Storage](https://img.shields.io/badge/IBM,Storage-%0066FF.svg?style=for-the-badge&logo=IBM&logoColor=white)</br>
 ![Linux,Uninx](https://img.shields.io/badge/Linux-%DCDCDC.svg?style=for-the-badge&logo=Linux&logoColor=white)</br>
-![Google cloud](https://img.shields.io/badge/GoogleCloud-%D3D3D3.svg?style=for-the-badge&logo=Googlecloud&logoColor=white)</br>
-![AWS cloud](https://img.shields.io/badge/AWSCloud-%FFA500.svg?style=for-the-badge&logo=AWScloud&logoColor=white)</br>
+![Google cloud](https://img.shields.io/badge/GoogleCloud-%23BEBEBE.svg?style=for-the-badge&logo=Googlecloud&logoColor=white)</br>
+![AWS cloud](https://img.shields.io/badge/AWSCloud-%23BEBEBE.svg?style=for-the-badge&logo=AWScloud&logoColor=white)</br>
 ![draw.io](https://img.shields.io/badge/draw.io-%23E37D02.svg?style=for-the-badge&logo=Diagram&logoColor=black)</br>
 ![Nginx](https://img.shields.io/badge/Nginx-%228B22.svg?style=for-the-badge&logo=Nginx&logoColor=black)</br>
 ![Lens](https://img.shields.io/badge/Lens-%230374C7.svg?style=for-the-badge&logo=Lens&logoColor=white)</br>
