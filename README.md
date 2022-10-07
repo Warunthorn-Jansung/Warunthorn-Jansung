@@ -30,6 +30,7 @@ KASETSART UNIVERSITY  |  2009 - 2014
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23EC0E11.svg?style=for-the-badge&logo=Jenkins&logoColor=white)![Jenkins Pipeline](https://img.shields.io/badge/Pipeline-%23C4C4C4.svg?style=for-the-badge&logo=skill&logoColor=white)</br>
 ![Containerd](https://img.shields.io/badge/Containerd-%23000000.svg?style=for-the-badge&logo=containerd&logoColor=white)</br>
 ![Gitlab](https://img.shields.io/badge/gitlab-%23E37D02.svg?style=for-the-badge&logo=gitlab&logoColor=white)</br>
+![Bitbucket](https://img.shields.io/badge/bitbucket-%0033FF.svg?style=for-the-badge&logo=Bitbucket&logoColor=white)</br>
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E37D02.svg?style=for-the-badge&logo=Prometheus&logoColor=white)![Prometheus](https://img.shields.io/badge/AlertRules-%23E8E1DE.svg?style=for-the-badge&logo=skill&logoColor=white)</br>
 ![Grafana](https://img.shields.io/badge/Grafana-%23FC4900.svg?style=for-the-badge&logo=Grafana&logoColor=white)![Graph](https://img.shields.io/badge/Graph-%23E37D02.svg?style=for-the-badge&logo=skill&logoColor=white)</br>
 ![Fluent-bit](https://img.shields.io/badge/Fluentbit-%2346E3AA.svg?style=for-the-badge&logo=fluentbit&logoColor=white)![Fluentd](https://img.shields.io/badge/Fluentd-%2311A9E2.svg?style=for-the-badge&logo=fluentd&logoColor=white)</br>
