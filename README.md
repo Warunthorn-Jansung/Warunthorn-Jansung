@@ -47,11 +47,14 @@ KASETSART UNIVERSITY  |  2009 - 2014
 ![Lens](https://img.shields.io/badge/Lens-%230374C7.svg?style=for-the-badge&logo=Lens&logoColor=white)</br>
 
 - Kubernetest ( K8S )
+- Openshift
 - Docker , Container
 - Jenkins Pipeline CI/CD
 - Gitlab
+- Bitbucket
 - Prometheus and alert rules
 - Grafana graph
+- Dinatrade
 - Fluent-bit
 - Filebeat
 - Kafka
