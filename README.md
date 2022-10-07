@@ -42,6 +42,7 @@ KASETSART UNIVERSITY  |  2009 - 2014
 ![IBM-Storage](https://img.shields.io/badge/IBM,Storage-%23FFFFFF.svg?style=for-the-badge&logo=IBM&logoColor=black)</br>
 ![Linux,Uninx](https://img.shields.io/badge/Linux-%23FFFFFF.svg?style=for-the-badge&logo=Linux&logoColor=black)</br>
 ![Google cloud](https://img.shields.io/badge/GoogleCloud-%23FFFFFF.svg?style=for-the-badge&logo=Googlecloud&logoColor=black)</br>
+![AWS cloud](https://img.shields.io/badge/AWSCloud-%23FFFFFF.svg?style=for-the-badge&logo=AWScloud&logoColor=black)</br>
 ![draw.io](https://img.shields.io/badge/draw.io-%23FFFFFF.svg?style=for-the-badge&logo=Diagram&logoColor=black)</br>
 ![Nginx](https://img.shields.io/badge/Nginx-%2318A502.svg?style=for-the-badge&logo=Nginx&logoColor=black)</br>
 ![Lens](https://img.shields.io/badge/Lens-%230374C7.svg?style=for-the-badge&logo=Lens&logoColor=black)</br>
