@@ -43,7 +43,7 @@ KASETSART UNIVERSITY  |  2009 - 2014
 ![Google cloud](https://img.shields.io/badge/GoogleCloud-%D3D3D3.svg?style=for-the-badge&logo=Googlecloud&logoColor=white)</br>
 ![AWS cloud](https://img.shields.io/badge/AWSCloud-%FFA500.svg?style=for-the-badge&logo=AWScloud&logoColor=white)</br>
 ![draw.io](https://img.shields.io/badge/draw.io-%FF6347.svg?style=for-the-badge&logo=Diagram&logoColor=white)</br>
-![Nginx](https://img.shields.io/badge/Nginx-%228B22.svg?style=for-the-badge&logo=Nginx&logoColor=white)</br>
+![Nginx](https://img.shields.io/badge/Nginx-%228B22.svg?style=for-the-badge&logo=Nginx&logoColor=black)</br>
 ![Lens](https://img.shields.io/badge/Lens-%230374C7.svg?style=for-the-badge&logo=Lens&logoColor=white)</br>
 
 - Kubernetest ( K8S )
