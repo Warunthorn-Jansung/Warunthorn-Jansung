@@ -25,7 +25,7 @@ KASETSART UNIVERSITY  |  2009 - 2014
 
 ## ⚙️ Skills ⚙️
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%230A66C2.svg?style=for-the-badge&logo=Kubernetes&logoColor=white)</br>
-![Openshift](https://img.shields.io/badge/openshift-%230A66C2.svg?style=for-the-badge&logo=Openshift&logoColor=white)</br>
+![Openshift](https://img.shields.io/badge/openshift-%23EC0E11.svg?style=for-the-badge&logo=Openshift&logoColor=white)</br>
 ![Docker](https://img.shields.io/badge/docker-%2300AEF5.svg?style=for-the-badge&logo=docker&logoColor=white)</br>
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23EC0E11.svg?style=for-the-badge&logo=Jenkins&logoColor=white)![Jenkins Pipeline](https://img.shields.io/badge/Pipeline-%23C4C4C4.svg?style=for-the-badge&logo=skill&logoColor=white)</br>
 ![Containerd](https://img.shields.io/badge/Containerd-%23000000.svg?style=for-the-badge&logo=containerd&logoColor=white)</br>
