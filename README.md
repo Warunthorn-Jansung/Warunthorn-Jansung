@@ -95,6 +95,9 @@ KASETSART UNIVERSITY  |  2009 - 2014
   <a href="https://www.instagram.com/first.warunthorn/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="https://www.canva.com/design/DAFuMVLLvf0/smo6qrD2u7ZaMHhoUhIN7w/edit" target="_blank">
+    <img src="https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge"/>
+  </a>
 </div>
 
 <!---
